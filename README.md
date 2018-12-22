@@ -1,4 +1,4 @@
 # Automated-measurement-of-Fetal-head-circumference
 
-Ellipse fitting on US images of fetal head using Unit model
+Circumference measurement of fetal head using UNet model
 
